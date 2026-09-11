@@ -5,4 +5,4 @@ An agent skill for formatting C#/.NET projects using
 
 ## Installation
 
-npx skills add <github-user>/csharp-formatting
+npx skills add https://github.com/rgrueneis/csharp-formatting
