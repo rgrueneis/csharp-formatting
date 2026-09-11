@@ -1,6 +1,7 @@
 ---
 name: csharp-formatting
-description: Use the repository's templates/.editorconfig file as the template for formatting a C# project with dotnet format until no warnings or messages remain.
+description: Format C# and .NET projects using dotnet format and the provided template templates/.editorconfig. Use this skill when asked to format, clean up, or standardize C# code.
+
 user-invocable: true
 ---
 
